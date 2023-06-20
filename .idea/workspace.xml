@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5ac9e0fe-4402-495b-9726-004665b96247" name="Changes" comment="1" />
+    <list default="true" id="5ac9e0fe-4402-495b-9726-004665b96247" name="Changes" comment="corregido" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,7 +31,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/USUARIO/IdeaProjects/Menu_Grupo1/src",
+    "last_opened_file_path": "C:/Users/USUARIO/IdeaProjects/Menu_Grupo1/src/Conicas1",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -42,6 +42,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USUARIO\IdeaProjects\Menu_Grupo1\src\Conicas1" />
       <recent name="C:\Users\USUARIO\IdeaProjects\Menu_Grupo1\src" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -61,7 +62,7 @@
       <updated>1687227406216</updated>
       <workItem from="1687227407337" duration="64000" />
       <workItem from="1687227545592" duration="35000" />
-      <workItem from="1687227617305" duration="5791000" />
+      <workItem from="1687227617305" duration="7705000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1687233456587</created>
@@ -70,7 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1687233456587</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="corregido">
+      <created>1687234499790</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687234499790</updated>
+    </task>
+    <task id="LOCAL-00003" summary="corregido">
+      <created>1687234891578</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687234891578</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="corregido" />
+    <option name="LAST_COMMIT_MESSAGE" value="corregido" />
   </component>
 </project>
